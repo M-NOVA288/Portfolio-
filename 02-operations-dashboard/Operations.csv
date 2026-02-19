@@ -1,0 +1,5 @@
+equipment_id,month,downtime_hours,maintenance_cost
+1,Jan,10,500
+2,Jan,5,300
+1,Feb,7,400
+2,Feb,12,700
